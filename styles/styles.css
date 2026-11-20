@@ -1,0 +1,40 @@
+.cabezera{
+    background-color: rgb(27, 23, 23);
+    border: blue;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.img{
+    display: flex;
+    flex-direction: column;
+}
+.l{
+background-image: url(../assets/images/cabecera.jpg);
+background-size: 100%;
+height: 650px;
+display: flex;
+font-size: 60px;
+font-family: Arial, Helvetica, sans-serif;
+color: aliceblue;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.i{
+ font-size: 23px;
+ justify-content: center;
+ align-items: center;
+ width: 1200px;
+}
+.blanco{
+    color: aliceblue;
+}
+.azul{
+    color: blue;
+}
+.cab{
+    width: 600px;
+}
