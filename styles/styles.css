@@ -110,10 +110,82 @@ margin-left: 50px;
     flex-direction: row;
     justify-content: space-evenly;
     margin-top: 50px;
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    width:99vw;
 }
-.textLogos{
+.imgl{
+   width:150px; 
+}
+.tlt{
+    font-size:35px;
+}
+.fondoAzul{
+    background-color: #1c6dcf;
+    height: 110px;
+     display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.final{
+    font-size: 25px;
+    color: aliceblue;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.imgFon{
+    background-image: url(../assets/images/cabecera.jpg);
+    background-size: 100%;
+    height: 650px;
+    height: 300px;
+    margin-top: 15px;
+}
+.mitad{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
 }
+.lado{
+    width: 400px;
+    background-color: rgb(44, 45, 49);
+    height: 350px;
+    margin-top: 35px;
+    margin-right: 90px;
+    width: 400px;
+    height: 280px;
+}
+.grande{
+    width: 800px;
+    margin-left: 100px;
+}
+.p2{
+    background-color:rgb(44, 45, 49);
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    padding-left: 18px;
+}
+.titulo2{
+    color: aliceblue;
+    margin-left: 18px;
+}
+.p3{
+     color: aliceblue;
+    padding-left: 18px;
+    font-size: 19px;
+}
+.fondoAzul2{
+    background-color: #1c6dcf;
+    height: 110px;
+     display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
 
